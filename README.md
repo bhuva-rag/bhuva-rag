@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-🎓 Computer Science Student
+🎓 Computer Science Student(Data Science)
 
 I am passionate about software development and continuously learning new technologies. Currently, I am focusing on Java, Data Structures & Algorithms, Database Management Systems, Web Development, and problem-solving.
 
