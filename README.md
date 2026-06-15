@@ -18,11 +18,11 @@ I am passionate about software development and continuously learning new technol
 
 \- React.js
 
-\-Node.js
+\- Node.js
 
-\-Express.js
+\- Express.js
 
-\-Git & GitHub
+\- Git & GitHub
 
 📚 Currently Learning:
 
